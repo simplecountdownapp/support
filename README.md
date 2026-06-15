@@ -13,11 +13,11 @@ How can we help?
 
 ❓ General question — not sure how something works?
 
-Simply open a [new Discussion](https://github.com/Canertasan/simple-count-support/discussions/new/choose) and we'll get back to you as soon as
+Simply open a [new Discussion](https://github.com/simplecountdownapp/support/discussions/new/choose) and we'll get back to you as soon as
 possible.
 
 Useful links
-- https://github.com/Canertasan/simple-count-privacy
+- https://github.com/simplecountdownapp/privacy/blob/main/PRIVACY.md
 
 We read every message and appreciate your feedback — it helps us
 make Simple Count better for everyone. Thank you for using the app!
